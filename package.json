@@ -1,6 +1,7 @@
 {
   "name": "ux",
   "homepage": "https://AF31N.github.io/UI-UX-react-web",
+  "homepage": "https://react-ui-ux.netlify.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
